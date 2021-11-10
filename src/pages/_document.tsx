@@ -5,6 +5,7 @@ class MyDocument extends Document {
         return (
             <Html>
                 <Head>
+                    <meta name="description" content="A simple nonogram game" />
                     <link
                         rel="apple-touch-icon"
                         sizes="180x180"
