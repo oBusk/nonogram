@@ -1,19 +1,17 @@
 {
-    "name": "@obusk/nextjs-prettier-boilerplate",
+    "name": "@obusk/nonogram",
     "private": true,
     "version": "0.1.0",
-    "description": "Github Repo template for a next.js project with linting, strictness and CI setup",
+    "description": "Building small nonogram game with React",
     "keywords": [
-        "eslint",
+        "nonogram",
         "nextjs",
-        "prettier",
-        "template",
-        "typescript",
-        "vercel"
+        "vercel",
+        "react"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/oBusk/nextjs-prettier-boilerplate.git"
+        "url": "https://github.com/oBusk/nonogram.git"
     },
     "author": "Oscar Busk <oscar.busk@gmail.com>",
     "license": "ISC",
